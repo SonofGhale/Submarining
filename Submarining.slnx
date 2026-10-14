@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Submarining/Submarining.vcxproj" Id="7b5cf051-37da-4222-aa6a-52185ba25d99" />
+</Solution>
